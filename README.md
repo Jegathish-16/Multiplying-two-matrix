@@ -22,6 +22,8 @@ Display the result.
 
 ## PROGRAM: 
 ```
+#Developed by: Jegathish s
+#Register number: 212221230041
 import numpy as np
 mat=int(input())
 l1,l2=[],[]
